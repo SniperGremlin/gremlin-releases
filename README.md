@@ -1,5 +1,23 @@
 # Gremlin — Installation Guide
 
+---
+
+## ⚠️ CRITICAL — How Gremlin knows when to write a letter
+
+Gremlin only generates a GP letter if the treatment note contains the word **EPC** or **CDM**.
+
+This is how Gremlin knows the appointment was an Enhanced Primary Care or Chronic Disease Management plan visit.
+
+**You MUST include EPC or CDM somewhere in your treatment note — otherwise Gremlin will skip the patient and no letter will be created.**
+
+Example — anywhere in your note will work:
+> *"Patient presented for EPC review. Plantar fasciitis management..."*
+> *"CDM plan visit — ongoing diabetic foot care..."*
+
+If Gremlin skips a patient you expected a letter for, check that the note contains EPC or CDM.
+
+---
+
 ## Before you start
 - Windows 10 or 11 (64-bit)
 - 8GB RAM minimum
@@ -72,6 +90,8 @@ Once saved, Gremlin is ready to use.
 2. Pick today's date
 3. Click **Generate Letters**
 4. Drafts appear in your email — ready to review and send
+
+> ⚠️ **Reminder:** Gremlin only writes letters for patients whose treatment note contains **EPC** or **CDM**. If no letter is generated, check the note.
 
 ---
 
