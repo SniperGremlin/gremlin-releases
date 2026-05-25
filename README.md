@@ -51,6 +51,19 @@ On first launch, Gremlin will ask for:
 
 Once saved, Gremlin is ready to use.
 
+> ### ⚠️ Gmail App Password — this is NOT your normal Gmail password
+>
+> An App Password is a special one-time code you generate from your Google account. Here's how:
+>
+> 1. Go to **myaccount.google.com**
+> 2. Click **Security** on the left
+> 3. Under "How you sign in to Google", click **2-Step Verification** (you must have this turned on)
+> 4. Scroll to the bottom and click **App passwords**
+> 5. Type a name (e.g. "Gremlin") and click **Create**
+> 6. Google shows you a **16-character password** — copy this and paste it into Gremlin
+>
+> You only need to do this once.
+
 ---
 
 ## Every day after that
