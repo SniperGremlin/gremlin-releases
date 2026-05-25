@@ -10,7 +10,7 @@
 
 ## Step 1 — Install the AI Engine
 
-Download and run **GremlinAISetup.exe**.
+Download and run **[GremlinAISetup.exe](https://github.com/SniperGremlin/gremlin-releases/releases/download/v1.0/GremlinAISetup.exe)**.
 
 > ⚠️ **Windows will show a security warning — this is normal.**
 >
@@ -30,7 +30,7 @@ The installer will:
 
 ## Step 2 — Install Gremlin
 
-Download **Gremlin_Windows.zip** and extract it.
+Download **[Gremlin_Windows.zip](https://github.com/SniperGremlin/gremlin-releases/releases/download/v1.0/Gremlin_Windows.zip)** and extract it.
 
 > **How to extract:**
 > Right-click the zip file → **"Extract All"** → choose a location (Desktop is fine) → click **Extract**
