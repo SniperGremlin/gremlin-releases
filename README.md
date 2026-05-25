@@ -17,8 +17,6 @@ Download and run **GremlinAISetup.exe**.
 > When you see "Windows protected your PC":
 > 1. Click **"More info"** (small text near the top)
 > 2. A new button appears at the bottom — click **"Run anyway"**
->
-> ![SmartScreen](https://i.imgur.com/placeholder.png)
 
 The installer will:
 - Download and install Ollama (the AI engine) — about 100MB
